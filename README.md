@@ -1,6 +1,8 @@
 # File-Types
 Handy little list of used Windows File Types and what they're used for :)
 
+
+
 | Extension                | File Type Description                                | Content Type                                                              |
 |--------------------------|------------------------------------------------------|---------------------------------------------------------------------------|
 | 1                        | WinRAR archive                                       |                                                                           |
